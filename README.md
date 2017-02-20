@@ -12,4 +12,4 @@ Fork and Clone to test locally or click below to deploy to Heroku.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-Use it to test AJAX requests, as shown in the [Peanuts Client Example](https://github.com/jeremiahalex/peanuts-client)
+Use it to test AJAX requests, as shown in the [Peanuts Client Example](https://github.com/AndrewThian/peanuts-client)

@@ -24,7 +24,7 @@ app.get('/', function (req, res) {
 // READ: GET ALL
 app.get('/peanuts', function (req, res) {
   // convert object to an array
-  var peanutsArr = Object.keys(peanuts).map(function (key) {return peanuts[key]})
+  var peanutsArr = Object.keys(peanuts).map(function (key) { return peanuts[key] })
   res.json(peanutsArr)
 })
 // READ: GET ONE
